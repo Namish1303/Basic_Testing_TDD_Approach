@@ -43,4 +43,9 @@ public class typeTest {
 
     }
 
+    @Test
+    public void invalidTest()
+    {
+        Assertions.assertEquals("Invalid",triangle.kindOfTriangle(0,7,8));
+    }
 }
