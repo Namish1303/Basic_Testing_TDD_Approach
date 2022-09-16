@@ -36,6 +36,11 @@ public class typeTest {
     }
 
 
+    @Test
+    public void checkScalene()
+    {
+        Assertions.assertEquals("Scalene",triangle.kindOfTriangle(5,6,7));
 
+    }
 
 }
