@@ -6,6 +6,13 @@ public class Triangle {
         {
             return "Invalid";
         }
+
+        if(one >= 20 || two >=20 || three >= 20)
+        {
+            return "Invalid";
+
+        }
+
         if (one == two) {
             if (two == three) {
                 return "Equilateral";

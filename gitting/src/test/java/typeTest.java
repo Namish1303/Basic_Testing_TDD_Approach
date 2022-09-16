@@ -48,4 +48,19 @@ public class typeTest {
     {
         Assertions.assertEquals("Invalid",triangle.kindOfTriangle(0,7,8));
     }
+    @Test
+    public void invalidTest2()
+    {
+        Assertions.assertEquals("Invalid",triangle.kindOfTriangle(9,0,8));
+    }
+    @Test
+    public void invalidTest3()
+    {
+        Assertions.assertEquals("Invalid",triangle.kindOfTriangle(21,7,8));
+    }
+    @Test
+    public void invalidTest4()
+    {
+        Assertions.assertEquals("Invalid",triangle.kindOfTriangle(0,7,21));
+    }
 }
