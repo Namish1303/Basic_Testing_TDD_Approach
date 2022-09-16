@@ -31,10 +31,10 @@ public class Triangle {
                 return "Isosceles";
             }
         }
-
-
-
-        return "Done";
+        else
+        {
+            return "Scalene";
+        }
     }
 
 
