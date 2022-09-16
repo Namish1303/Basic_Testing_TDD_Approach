@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e99c71f-8fa6-4c22-b087-65cfa86c393c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/exercise1/src/test/java/typeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/src/test/java/typeTest.java" afterDir="false" />
+    <list default="true" id="56ebd6ad-1ac6-4439-aaa6-64bdeae64165" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitting/src/main/java/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitting/src/test/java/addTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitting/src/test/java/divideTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitting/src/test/java/testRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitting/src/test/java/testSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitting/target/classes/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitting/target/classes/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitting/target/test-classes/addTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitting/target/test-classes/addTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitting/target/test-classes/testRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitting/target/test-classes/testRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitting/target/test-classes/testSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitting/target/test-classes/testSuite.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,64 +31,87 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2Er1g1weDtSSUhnmKXJsWzQ08sU" />
+  <component name="ProjectId" id="2EpZMv6DFGG55IlSmRh2cGHcc2Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercise1" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exercise 1" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\University\Y4T1\COMP 4004\4004_exercise1\exercise1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.typeTest.checkEquilateral">
-    <configuration name="typeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exercise1" />
+  <component name="RunManager" selected="JUnit.subtractTest">
+    <configuration name="testRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testRunner" />
+      <module name="gitting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="divideTest.divide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gitting" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="typeTest" />
+      <option name="MAIN_CLASS_NAME" value="divideTest" />
+      <option name="METHOD_NAME" value="divide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="subtractTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gitting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="subtractTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="typeTest.checkEquilateral" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exercise1" />
+    <configuration name="subtractTest.subtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gitting" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="typeTest" />
-      <option name="METHOD_NAME" value="checkEquilateral" />
+      <option name="MAIN_CLASS_NAME" value="subtractTest" />
+      <option name="METHOD_NAME" value="subtract" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gitting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testSuite" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.typeTest.checkEquilateral" />
-        <item itemvalue="JUnit.typeTest" />
+        <item itemvalue="JUnit.subtractTest" />
+        <item itemvalue="Application.testRunner" />
+        <item itemvalue="JUnit.subtractTest.subtract" />
+        <item itemvalue="JUnit.testSuite" />
+        <item itemvalue="JUnit.divideTest.divide" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e99c71f-8fa6-4c22-b087-65cfa86c393c" name="Changes" comment="" />
-      <created>1663338998806</created>
+      <changelist id="56ebd6ad-1ac6-4439-aaa6-64bdeae64165" name="Changes" comment="" />
+      <created>1663294444729</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663338998806</updated>
+      <updated>1663294444729</updated>
     </task>
     <servers />
   </component>
@@ -93,5 +125,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
