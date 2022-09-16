@@ -20,6 +20,17 @@ public class Triangle {
                 return "Isosceles";
             }
         }
+        else if (one == three)
+        {
+            if(two == three)
+            {
+                return "Equilateral";
+            }
+            else
+            {
+                return "Isosceles";
+            }
+        }
 
 
 
