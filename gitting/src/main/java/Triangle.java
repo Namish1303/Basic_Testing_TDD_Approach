@@ -1,6 +1,11 @@
 public class Triangle {
 
     String kindOfTriangle(int one, int two, int three) {
+
+        if(one == 0 || two == 0 || three == 0)
+        {
+            return "Invalid";
+        }
         if (one == two) {
             if (two == three) {
                 return "Equilateral";

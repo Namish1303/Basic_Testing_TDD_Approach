@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56ebd6ad-1ac6-4439-aaa6-64bdeae64165" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gitting/src/test/java/typeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitting/src/test/java/typeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitting/src/main/java/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitting/src/main/java/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +40,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
-  <component name="RunManager" selected="JUnit.typeTest.checkScalene">
-    <configuration name="subtractTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gitting" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="subtractTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.typeTest.invalidTest">
     <configuration name="typeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="gitting" />
       <option name="PACKAGE_NAME" value="" />
@@ -88,13 +80,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="typeTest.invalidTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gitting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="typeTest" />
+      <option name="METHOD_NAME" value="invalidTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.typeTest.invalidTest" />
         <item itemvalue="JUnit.typeTest.checkScalene" />
         <item itemvalue="JUnit.typeTest" />
         <item itemvalue="JUnit.typeTest.checkIsosceles" />
         <item itemvalue="JUnit.typeTest.checkEquilateral" />
-        <item itemvalue="JUnit.subtractTest" />
       </list>
     </recent_temporary>
   </component>
