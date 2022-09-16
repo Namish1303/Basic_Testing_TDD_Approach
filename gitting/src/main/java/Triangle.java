@@ -5,9 +5,23 @@ public class Triangle {
             if (two == three) {
                 return "Equilateral";
             }
+            else
+            {
+                return "Isosceles";
+            }
 
-        } else {
         }
+        else if (two == three){
+            if(one == three)
+            {
+                return "Equilateral";
+            }
+            else{
+                return "Isosceles";
+            }
+        }
+
+
 
         return "Done";
     }
