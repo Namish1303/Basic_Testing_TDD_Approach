@@ -16,5 +16,11 @@ public class typeTest {
         Assertions.assertEquals("Equilateral",triangle.kindOfTriangle(7,7,7));
     }
 
+    @Test
+    public void checkIsosceles()
+    {
+        Assertions.assertEquals("Isosceles",triangle.kindOfTriangle(7,7,8));
+    }
+
 
 }
