@@ -13,6 +13,6 @@ public class typeTest {
     @Test
     void checkEquilateral()
     {
-        Assertions.assertEquals("Equilateral",triangle.kindofTriangle(7,7,7));
+        Assertions.assertEquals("Equilateral",triangle.kindOfTriangle(7,7,7));
     }
 }
